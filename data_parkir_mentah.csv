@@ -1,0 +1,101 @@
+ID,Plat_Nomor,Jenis,Merk,Model,Warna,Status,Tanggal,Jam_Masuk,Jam_Keluar,Area
+1,N 4521 AB,Motor,Honda,Beat,Merah,Mahasiswa,2026-09-01,07:15,15:30,Kampus 1 - Motor
+2,n4521ab,motor,HONDA,beat,merah,mahasiswa,01/09/2026,07:20,15:35,kampus 1 - motor
+3,N 1287 CD,Mobil,Toyota,Innova,Silver,Dosen,2026-09-01,08:00,16:00,Kampus 1 - Mobil
+4,N 6610 XY,Motor,Yamaha,NMAX,Biru,Mahasiswa,1 Sep 2026,7.45,14.10,Kampus 1 - Motor
+5,N 9012 EF,mobil,Honda,Brio,Putih,Dosen,2026-09-02,08:30,08:10,Kampus 1 - Mobil
+6,AG 7788 GH,Motor,Suzuki,Satria F150,Biru,Mahasiswa,2026-09-02,09:00,17:00,Kampus 2 - Motor
+7,N 3456 IJ,Motor,Honda,Vario 125,Biru,Mahasiswa,2026-09-02,07:50,NULL,Kampus 2 - Motor
+8,N-2468-KL,Mobil,Daihatsu,Xenia,Hitam,Staf,2026-09-03,07:30,16:30,kampus 1 - mobil
+9,DK 1357 MN,Sepeda Motor,Honda,Supra X 125,Hijau,Tamu,2026-09-03,10:00,11:30,Kampus 2 - Motor
+10,N 8642 OP,Motor,Honda,PCX,Oranye,Mahasiswa,2026-09-03,25:10,15:00,Kampus 2 - Motor
+11,,Motor,Kawasaki,Ninja 250,Hijau,Mahasiswa,2026-09-04,08:05,12:00,Kampus 1 - Motor
+12,N 1111 QR,Mobill,Toyota,Avanza,Abu-abu,Dosn,2026-09-04,08:15,17:45,Kampus 1 - Mobil
+13,N 2222 ST,Motor,Honda,Scoopy,Kuning,Mahasiswa ,2026-09-04,07:10,16:20,Kampus 3 - Motor
+14,N 3333 UV,Motor,yamaha,Mio,Merah,Mahasiswa,04-09-2026,09:30,13:00,Kampus 1 - Motor
+15,B 4444 WX,Mobil,Mitsubishi,Xpander,Coklat,Tamu,2026-09-05,13:00,14:00,Kampus 2 - Mobil
+16,N 5555 YZ,Motor,Honda,Vario,Coklat,Mahasiswa,2026-09-05,07:00,07:00,Kampus 1 - Motor
+17,N 6666 AA,Motor,Honda,Genio,Maroon,Mahasiswa,2026-09-05,06:45,99:99,Kampus 1 - Motor
+18,N 7777 BB,Sepeda,Polygon,Xtrada,Biru,Mahasiswa,2026-09-06,08:00,12:30,Kampus 2 - Motor
+19,N 8888 CC,Mobil,Toyota,Fortuner,Putih,Dosen,2026-09-06,08:00,2026-09-07 08:00,Kampus 2 - Mobil
+20,N 9999 DD,Motor,Honda,CB150R,Hitam,Staf,2026-09-06,07:30,16:00,Kampus 1 - Motor
+21,N 1010 EE,Motor,Yamaha,Aerox,Biru Tua,Mahasiswa,2026-09-07,07:40,15:00,Kampus 2 - Motor
+22,N 1010 EE,Motor,Yamaha,Aerox,Biru Tua,Mahasiswa,2026-09-07,07:40,15:00,Kampus 2 - Motor
+23,N 1212 FF,Motor,Honda,Beat,Merah,N/A,2026-09-07,08:20,16:10,Kampus 2 - Motor
+24,N 1313 GG,Mobil,Suzuki,Ertiga,Silver,Dosen,2027-01-15,09:00,15:00,Kampus 1 - Mobil
+25,N 1414 HH,Motor,Honda,Scopy,Krem,Mahasiswa,2026-09-08,7:5,16:00,Kampus 1 - Motor
+26,N 1515 II,MOTOR,HONDA,VARIO,BIRU,MAHASISWA,2026-09-08,08:10,17:00,KAMPUS 1 - MOTOR
+27,N 1616 JJ,Motor,Honda,,Abu abu,Mahasiswa,2026-09-08,08:30,16:45,Kampus 2 - Motor
+28,N1717KK,Mobil,Honda,Jazz,Putih,Staf,2026-09-09,08:00,17:00,Kampus 1 - Mobil
+29,N 1818 LL,Motor,Yamaha,Mio,Hijau,Mahasiswa,2026-09-09,07:55,16:05,Kampus 1 - Motor
+30,N 1919 MM,Motor,Honda,Beat,Grey,Tamu,9/9/26,12:00,13:15,
+31,DK 5762 CN,Motor,Kawasaki,Ninja 250,Merah,Tamu,2026-09-02,12:00,13.00,Kampus 2 - Motor
+32,DK 9020 LG,Motor,Kawasaki,Ninja 250,Silver,Dosen,2026-09-16,08:00,17:00,Kampus 1 - Motor
+33,DK 5121 MJ,Motor,Honda,Vario,Hijau,Mahasiswa,2026-09-08,07:30,15:30,Kampus 1 - Motor
+34,N-6415-JX,Motor,Yamaha,NMAX,Putih,Tamu,30/9/26,08:15,09:15,Kampus 1 - Motor
+35,AG 6160 YO,Motor,Honda,Vario,Maroon,Mahasiswa,2026-09-29,08:00,16:00,Kampus 1 - Motor
+36,N 4658 TT,Motor,Suzuki,Satria F150,Kuning,Dosen,2026-09-16,09:30,09:05,Kampus 1 - Motor
+37,n 4678 ye,Motor,Yamaha,Aerox,Hitam,Mahasiswa,2026-09-24,07:15,15:15,Kampus 2 - Motor
+38,N 4739 AA,Mobil,Daihatsu,Ayla,Silver,Tamu,2026-09-30,08:00,09:30,Kampus 1 - Mobil
+39,N 4257 HD,Motor,Kawasaki,Ninja 250,Maroon,Mahasiswa,2026-09-15,07:45,15:15,Kampus 1 - Motor
+40,N 2937 BE,Motor,Honda,Vario,Kuning,Mahasiswa,2026-09-18,07:00,16:00,kampus 1 - motor
+41,B 6178 TG,Motor,Kawasaki,Ninja 250,Maroon,Mahasiswa,2026-09-18,12.00,18:00,Kampus 1 - Motor
+42,N 4658 TT,Motor,Suzuki,Satria F150,Kuning,Dosen,2026-09-04,07:45,14:15,Kampus 1 - Motor
+43,AG 3568 LR,Motor,Honda,Scoopy,Maroon,Dosen,2026-09-10,25:10,17:00,Kampus 1 - Motor
+44,AG 3568 LR,Motor,Honda,Scoopy,Maroon,Dosen,2026-09-17,07:15,10:45,Kampus 1 - Motor
+45,N 9882 KG,Motor,Yamaha,NMAX,Kuning,Mahasiswa,2026-09-15,07:00,11:00,Kampus 1 - Motor
+46,AG 3568 LR,Motor,Honda,Scoopy,Maroon,Dosen,2026-09-23,08:15,14:45,Kampus 1 - Motor
+47,N 8484 VP,Motor,Yamaha,Aerox,Kuning,Tamu,07/09/2026,10:00,13:00,Kampus 1 - Motor
+48,B 6178 TG,Motor,Kawasaki,Ninja 250,Maroon,MAHASISWA,2026-09-22,06:45,14:15,kampus 2 - motor
+49,B 3397 OA,Motor,Honda,PCX,Putih,Mahasiswa,2026-09-15,07:00,16:30,Kampus 1 - Motor
+50,L 6370 VJ,Mobil,Toyota,Avanza,Coklat,Dosen,2026-09-09,09:00,NULL,Kampus 1 - Mobil
+51,DK 4583 ZQ,Motor,Honda,Beat,Merah,Mahasiswa,2026-09-01,07:00,14.30,Kampus 2 - Motor
+52,N 6832 NM,Motor,Honda,CB150R,Abu-abu,Mahasiswa,2026-09-30,07:45,15:15,kampus 2 - motor
+53,n6415jx,Motor,Yamaha,NMAX,Putih,Tamu,2026-09-25,08:30,10:30,Kampus 1 - Motor
+54,N 4005 RA,Motor,Yamaha,NMAX,Kuning,Mahasiswa,2026-09-07,08:00,14:30,Kampus 1 - Motor
+55,L 2967 QZ,Motor,Yamaha,Mio,Kuning,Mahasiswa,2026-09-23,8:0,14:30,Kampus 1 - Motor
+56,AG 3644 II,Motor,Honda,Vario,Putih,Mahasiswa,2026-09-16,08:30,12:30,Kampus 1 - Motor
+57,B 3397 OA,Motor,Honda,PCX,Putih,Mahasiswa,2026-09-08,07:15,16:45,Kampus 1 - Motor
+58,N 6415 JX,Motor,Yamaha,NMAX,Putih,Tamu,2027-02-10,7.30,8.30,Kampus 1 - Motor
+59,N 8183 WW,Mobil,Daihatsu,Xenia,Kuning,Staf,2026-09-24,8:0,12:00,Kampus 1 - Mobil
+60,L 8226 HA,Motor,Kawasaki,Ninja 250,Maroon,Mahasiswa,2026-09-16,09:30,14:30,Kampus 1 - Motor
+61,N 6832 NM,Motor,Honda,CB150R,Abu-abu,Mahasiswa,2026-09-22,08:00,16:00,Kampus 2 - Motor
+62,N 2579 NF,Motor,Suzuki,Satria F150,Putih,Mahasiswa,2026-09-01,07:45,12:45,Kampus 1 - Motor
+63,B 3397 OA,Motor,Honda,PCX,Putih,Mahasiswa,2026-09-01,08:30,16:00,Kampus 1 - Motor
+64,N 9942 HP,Motor,Yamaha,Aerox,Maroon,Mahasiswa,2026-09-11,09:30,18:00,Kampus 3 - Motor
+65,L 7523 QI,Motor,Honda,Vario,Abu-abu,Mahasiswa,2026-09-10,07:00,15:00,Kampus 1 - Motor
+66,DK 9020 LG,Motor,Kawasaki,Ninja 250,Silver,Dosen,2026-09-14,12:00,18:00,Kampus 1 - Motor
+67,N 2579 NF,motor,Suzuki,Satria F150,Putih,Mahasiswa,2026-09-23,10:00,18:00,Kampus 1 - Motor
+68,L 8226 HA,Motor,Kawasaki,Ninja 250,Maroon,Mahasiswa,2026-09-04,07:15,12:15,Kampus 1 - Motor
+69,DK 5121 MJ,Motor,Honda,Vario,Hijau,Mahasiswa,2026-09-04,7.15,15:15,
+70,B 2485 MS,Motor,Yamaha,Mio,Kuning,Mahasiswa,2026-09-16,07:00,16:00,Kampus 1 - Motor
+71,L 2967 QZ,Motor,Yamaha,Mio,Kuning,Mahasiswa,2026-09-16,07:00,10.30,Kampus 2 - Motor
+72,L 6370 VJ,Mobil,Toyota,Avanza,Coklat,Dosen,2026-09-03,13:00,17:00,kampus 1 - mobil
+73,AG 3271 US,Motor,Yamaha,NMAX,Putih,Mahasiswa,2026-09-11,09:30,18:00,Kampus 1 - Motor
+74,N 2138 RM,Motor,Kawasaki,Ninja 250,Hitam,Mahasiswa,2026-09-29,08:30,17:30,Kampus 1 - Motor
+75,,Motor,Yamaha,Mio,Kuning,Mahasiswa ,01/09/2026,08:00,17:00,Kampus 1 - Motor
+76,N 5712 OE,Mobil,Toyota,Innova,Maroon,Staf,2026-09-10,06:45,14:45,Kampus 1 - Mobil
+77,n 5712 oe,Mobil,Toyota,Innova,Maroon,Staf,25/9/26,09:30,18:00,Kampus 2 - Mobil
+78,N 2579 NF,Motor,Suzuki,Satria F150,Putih,Mahasiswa,8/9/26,08:00,11:30,Kampus 2 - Motor
+79,DK 5762 CN,Motor,Kawasaki,NINJA 250,Merah,Tamu,2026-09-08,07:30,08:30,Kampus 2 - Motor
+80,N 2579 NF,Motor,Suzuki,Satria F150,Putih,Mahasiswa,2026-09-03,07:15,16:15,Kampus 2 - Motor
+81,N 5712 OE,Mobil,Toyota,Innova,maroon,Staf,2026-09-29,08:00,2026-09-30 08:00,Kampus 2 - Mobil
+82,L 8114 RV,Mobil,SUZUKI,Ertiga,Hitam,Staf ,14-09-2026,07:30,16:00,Kampus 1 - Mobil
+83,DK 9020 LG,Motor,Kawasaki,Ninja 250,Silver,Dosen,1/9/26,12:00,18:00,Kampus 2 - Motor
+84,N 6415 JX,Motor,Yamaha,NMAX,Putih,Tamu,2026-09-15,07:15,10:15,Kampus 1 - Motor
+85,L 2967 QZ,Motor,Yamaha,Mio,Kuning,Mahasiswa,2026-09-07,08:00,16:30,Kampus 2 - Motor
+86,N 4513 SJ,Mobil,Honda,Brio,Maroon,Dosen,2026-09-22,07:00,15:30,Kampus 1 - Mobil
+87,L 8114 RV,Mobil,Suzuki,Ertiga,Hitam,Staf,2026-09-28,07:00,07:00,Kampus 2 - Mobil
+88,N 8183 WW,Mobil,Daihatsu,Xenia,Kuning,Staf,2026-09-14,8:0,17:00,Kampus 2 - Mobil
+89,N 4513 SJ,MOBIL,Honda,Brio,Maroon,Dosen,2026-09-23,09:30,17:30,Kampus 1 - Mobil
+90,N 9980 ZU,Motor,Yamaha,NMAX,Kuning,mahasiswa,2026-09-25,10:00,18:00,Kampus 1 - Motor
+91,L 1188 VP,Motor,Honda,CB150R,Hijau,Staf,16/9/26,06:45,99:99,Kampus 1 - Motor
+92,L 1188 VP,Motor,honda,CB150R,Hijau,Staf,03/09/2026,08:00,17:00,Kampus 1 - Motor
+93,AG 3271 US,Motor,Yamaha,NMAX,Putih,Mahasiswa,2026-09-09,08:00,11:30,Kampus 1 - Motor
+94,L 8226 HA,Motor,Kawasaki,Ninja 250,Maroon,Mahasiswa,2026-09-30,08:00,16:00,Kampus 1 - Motor
+95,L 9152 YN,Motor,Yamaha,Mio,Silver,N/A,2026-09-09,08:15,12:15,Kampus 1 - Motor
+96,AG 3644 II,motor,Honda,Vario,Putih,Mahasiswa,1 Sep 2026,12:00,17:00,Kampus 2 - Motor
+97,N 6832 NM,Motor,Honda,CB150R,Abu-abu,Mahasiswa,2026-09-16,08:00,11:30,Kampus 1 - Motor
+98,N 8484 VP,Motor,Yamaha,Aerox,Kuning,Tamu,2026-09-15,08:00,11:00,Kampus 1 - Motor
+99,N-6415-JX,Motor,Yamaha,NMAX,Putih,Tamu,30/9/26,08:15,09:15,Kampus 1 - Motor
+100,L 2967 QZ,Motor,Yamaha,Mio,Kuning,Mahasiswa,2026-09-16,07:00,10.30,Kampus 2 - Motor
